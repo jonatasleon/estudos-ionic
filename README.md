@@ -1,5 +1,6 @@
 # Estudos Ionic
-- **[Ionic Essencial](https://github.com/jonatasleon/estudos-ionic/tree/master/ionic-essencial)**
+- **[Ionic Framework - Essencial](https://github.com/jonatasleon/estudos-ionic/tree/master/ionic-essencial#ionic-framework---essencial)**
+- **[Ionic Framework - Customizando e Criando Componentes](https://github.com/jonatasleon/estudos-ionic/tree/master/ionic-customizando-e-criando-componentes#ionic-framework---customizando-e-criando-componentes)**
 
 ## Comandos básicos
 
